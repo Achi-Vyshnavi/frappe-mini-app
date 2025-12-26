@@ -1,0 +1,5 @@
+{
+    "module_name": "Task Manager",
+    "app_name": "task_manager",
+    "description": "Mini Frappe app to learn DocTypes, server scripts, and APIs"
+}
